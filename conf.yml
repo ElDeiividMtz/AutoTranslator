@@ -1,0 +1,37 @@
+###############################################
+# AutoTranslator — Blueprint Extension Config
+# Framework: https://blueprint.zip
+# Author: ElDeiividMtz
+###############################################
+
+info:
+  name: AutoTranslator
+  identifier: autotranslator
+  description: Multi-language auto-translation for Pterodactyl Panel. Supports ES, PT, FR, DE, IT with Google Translate integration and native DOM interception for instant React translations.
+  version: 1.0.0
+  target: "*"
+  author: ElDeiividMtz
+  website: https://goldstarstudio.net
+
+admin:
+  view: admin/view.blade.php
+  controller: admin/controller.php
+  css: admin/admin.css
+  wrapper: admin/wrapper.blade.php
+
+dashboard:
+  css: dashboard/dashboard.css
+  wrapper: dashboard/wrapper.blade.php
+  components: dashboard/components
+
+data:
+  directory: private
+  console: console
+
+requests:
+  routers:
+    web: routers/web.php
+    client: routers/client.php
+
+database:
+  migrations: ""

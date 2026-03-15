@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2026 ElDeiividMtz (https://goldstarstudio.net)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER:
+This addon is provided as a free community contribution for educational and
+practical purposes. It may contain bugs or unexpected behavior. Use at your
+own risk. The author is not responsible for any damage or data loss resulting
+from the use of this software.
+
+This addon uses the free Google Translate API endpoint for automatic
+translations. Google may change or restrict access to this endpoint at any
+time without notice. The author is not affiliated with Google.
+
+USAGE TERMS:
+1. This addon is completely FREE and will always remain free.
+2. You are free to use, modify, and distribute this addon at no cost.
+3. You must retain the original author attribution in all copies.
+4. You may NOT sell or resell this addon — neither as a standalone product
+   nor repackaged under a different name. It is free for everyone.
+5. You may include it in hosting services or server setups provided
+   proper credit is given and the addon itself is not charged for.
+6. Contributions and improvements are welcome via the project repository.
+
+Author: ElDeiividMtz - https://goldstarstudio.net
+GitHub: https://github.com/ElDeiividMtz
+Repository: https://github.com/ElDeiividMtz/AutoTranslator
