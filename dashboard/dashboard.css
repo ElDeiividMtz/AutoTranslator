@@ -1,0 +1,5 @@
+/* AutoTranslator - Dashboard (React) Styles */
+/* Minimal — the plugin handles translations via JS, not CSS */
+.notranslate {
+    translate: no;
+}
